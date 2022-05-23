@@ -1,6 +1,6 @@
 # SnakePaper
 <br>
-<img src="https://github.com/Xses-1/SnakePaper/blob/main/Peek%202021-12-05%2018-13.gif"> </img>
+<img src="https://github.com/Xses-1/SnakePaper/blob/master/Peek%202021-12-05%2018-13.gif"> </img>
 <br>
 <br>
 The main part is <a href="https://github.com/Code-Bullet"> Code Bullet's </a> snake from his website, which is actually P5 library for javascript + <a href="https://johnflux.com/2015/05/02/nokia-6110-part-3-algorithms/"> John Tapsells Snake solution </a>. I stripped it down, tweaked it, so it is more resource efficient, and made it work as a wallpaper using boot up scripts and stuff.<br>

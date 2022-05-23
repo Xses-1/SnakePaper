@@ -1,6 +1,6 @@
 # SnakePaper
 <br>
-<img src="https://github.com/Xses-1/SnakePaper/blob/master/Peek%202022-05-23%2015-28.gif" width="2256" height="1504"> </img>
+<img src="https://github.com/Xses-1/SnakePaper/blob/master/Peek%202022-05-23%2015-28.gif" width="1504" height="2256"> </img>
 <br>
 <img src="https://github.com/Xses-1/SnakePaper/blob/master/Peek%202021-12-05%2018-13.gif"> </img>
 <br>

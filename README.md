@@ -24,12 +24,12 @@ git clone https://github.com/Xses-1/SnakePape/edit/main/README.md
 ```
 
 * <a href="https://github.com/Xses-1/SnakePape/blob/main/boot_server.sh"> boot_server.sh </a> in your autostart (with the path to SnakePaper changed, so it matches the location of your SnakePaper files!)<br><br>
-
 ```
 #!/bin/bash
 
 php -S localhost:8000 -t "/home/xses/Documents/Snakepaper" & #Path to folder with your SnakePaper
 ```
+<br>
 
 * <a href="https://store.kde.org/p/1324580/"> HTML Wallpaper for KDE Plasma </a> or equivelent<br>
   (Direct it to http://localhost:8000)<br>
